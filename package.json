@@ -1,0 +1,53 @@
+{
+  "name": "kendoproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@progress/kendo-react-buttons": "^7.1.0",
+    "@progress/kendo-react-data-tools": "^7.1.0",
+    "@progress/kendo-react-dialogs": "^7.1.0",
+    "@progress/kendo-react-grid": "^7.1.0",
+    "@progress/kendo-react-layout": "^7.1.0",
+    "@progress/kendo-react-popup": "^7.1.0",
+    "@progress/kendo-theme-bootstrap": "^7.2.0",
+    "@progress/kendo-theme-default": "^7.2.0",
+    "cra-template-kendo-sass": "file:../AppData/Local/npm-cache/_npx/b702a42a1b530dca/node_modules/cra-template-kendo-sass",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-modal": "^3.16.1",
+    "react-scripts": "5.0.1",
+    "react-table": "^7.8.0",
+    "web-vitals": "^3.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "sass": "^1.68.0"
+  }
+}
